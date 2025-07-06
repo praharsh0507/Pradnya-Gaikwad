@@ -1,5 +1,4 @@
 # Pradnya-Gaikwad
-This is my first repository
  <h1 align="center">Hi 👋, I'm Pradnya Gaikwad</h1>
 
 - 🔍 I’m currently Im searching new opportunity
