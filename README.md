@@ -1,8 +1,10 @@
-# Pradnya-Gaikwad
  <h1 align="center">Hi 👋, I'm Pradnya Gaikwad</h1>
-- 🔍 I’m currently Im searching new opportunity
+<br>- 🔍 I’m currently Im searching new opportunity 
+
 - 👩‍💻 I’m currently learning HTML,CSS
+  
 - 📫 How to reach me: gaikwadpradnya748@gmail.com
+  
 - 😄 My Work: https://www.figma.com/design/IlKg2HIe4UuPviTunrt7xg/foodway?node-id=0-1&t=PY4mJwiz3Dq0BTxd-1
 ### Connect with me:
 <div id="badges">
